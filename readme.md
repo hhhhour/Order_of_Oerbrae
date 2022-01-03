@@ -22,9 +22,9 @@ This campaign is an addon for [Battle for Wesnoth](https://wesnoth.org). It coul
 In addition, the the following work was used to make this campaign.
 
 - The Vaeringjar units were designed and produced by Cloud and Girgistan. [Learn more](https://forums.wesnoth.org/viewtopic.php?t=25174)
-- Custom cliff terrain was made by mesilliac. [Learn more](https://forums.wesnoth.org/viewtopic.php?t=20352).
+- Custom cliff terrain `images/terrain/cliffs/*`) was made by mesilliac. [Learn more](https://forums.wesnoth.org/viewtopic.php?t=20352).
 - The Vaeringjar's villages (`images/terrain/vaeringjar-village-*`) were made by Mefisto. [Learn more](https://forums.wesnoth.org/viewtopic.php?p=521108#p521108) and [more](https://forums.wesnoth.org/viewtopic.php?p=521107#p521107)
-- The lock opening sound was made by Iwan Gabovitch and released under the CC0 license. [Learn more](https://opengameart.org/content/door-open-door-close)
-- The door opening and closing sounds were made by qubodup and released under the CC0 license. [Learn more](https://opengameart.org/content/door-open-door-close-set)
+- The lock opening sound (`sounds/lock-open.ogg`) was made by Iwan Gabovitch and released under the CC0 license. [Learn more](https://opengameart.org/content/door-open-door-close)
+- The door opening and closing sounds (`sounds/door-*`) were made by qubodup and released under the CC0 license. [Learn more](https://opengameart.org/content/door-open-door-close-set)
 
 Thanks!
