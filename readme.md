@@ -1,23 +1,6 @@
 # Order of Oerbrae
 
-A campaign for [Battle for Wesnoth](https://wesnoth.org).
-
-## How to Play
-
-Install and play this campaign through the [Battle for Wesnoth](https://wesnoth.org) addons server.
-
-1. Open Battle for Wesnoth.
-2. Go to the Addons server.
-3. Search for "Order of Oerbrae".
-4. Install the addon.
-5. Exit the addons server.
-6. Go to the Campaigns.
-7. Search for "Order of Oerbrae".
-8. Click Play.
-
-## About
-
-A campaign for [The Battle for Wesnoth](https://www.wesnoth.org/).
+A campaign for [The Battle for Wesnoth](https://www.wesnoth.org/). Learn more about this addon on the [Wesnoth forums](https://forums.wesnoth.org/viewtopic.php?t=55565).
 
 ## Description
 
@@ -25,7 +8,7 @@ When a young cleric discovers corruption in the high offices of Vaerya, she must
 
 Will she elude the Warden's soldiers and find the answers she wants? Her quest will take her to the far coast, beyond the Roaen Wood, as she uncovers the truth about the Order and, maybe, what really happened to her father.
 
-This is a sequal to Betrayal of Thaeylan.
+This is a sequal to [Betrayal of Thaeylan](https://forums.wesnoth.org/viewtopic.php?t=331060).
 
 ## Credits
 
