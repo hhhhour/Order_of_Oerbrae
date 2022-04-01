@@ -15,9 +15,21 @@ Install and play this campaign through the [Battle for Wesnoth](https://wesnoth.
 7. Search for "Order of Oerbrae".
 8. Click Play.
 
+## About
+
+A campaign for [The Battle for Wesnoth](https://www.wesnoth.org/).
+
+## Description
+
+When a young cleric discovers corruption in the high offices of Vaerya, she must flee her home in the city and seek the protection of a secretive community of smugglers.
+
+Will she elude the Warden's soldiers and find the answers she wants? Her quest will take her to the far coast, beyond the Roaen Wood, as she uncovers the truth about the Order and, maybe, what really happened to her father.
+
+This is a sequal to Betrayal of Thaeylan.
+
 ## Credits
 
-This campaign is an addon for [Battle for Wesnoth](https://wesnoth.org). It could not have been made without the thousands of contributions from the game's developers, designers, testers, and community members over more than a decade. Thanks goes first and foremost to them.
+This campaign could not have been made without the thousands of contributions from the game's developers, designers, testers, and community members over more than a decade. Thanks goes first and foremost to them.
 
 In addition, the the following work was used to make this campaign.
 
