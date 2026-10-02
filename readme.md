@@ -22,5 +22,6 @@ In addition, the the following work was used to make this campaign.
 - The lock opening sound (`sounds/lock-open.ogg`) was made by Iwan Gabovitch and released under the CC0 license. [Learn more](https://opengameart.org/content/door-open-door-close)
 - The door opening and closing sounds (`sounds/door-*`) were made by qubodup and released under the CC0 license. [Learn more](https://opengameart.org/content/door-open-door-close-set)
 - The paper texture used in the story map was made by darkwood and released under the CC-BY 3.0 license. [Learn more](https://opengameart.org/content/paper)
+- Elite Peltast unit sprite from [War of Legends](https://github.com/knyghtmare/War_of_Legends).
 
 Thanks!
